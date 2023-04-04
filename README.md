@@ -77,4 +77,4 @@ This code provides a functional clone of the Yegara Host website, with the abili
 
 ### **Link to Live Demo**
 
-The live demo for this code portfolio can be accessed at [Click here](https://mikiyaas.github.io/YegaraHost-Website/).
+The live demo for this code Yegara host clone can be accessed at [Click here](https://mikiyaas.github.io/YegaraHost-Website/).
